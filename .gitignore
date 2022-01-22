@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+qenv
+dataset
+
+cmp.py
+edited.py
+*.json
